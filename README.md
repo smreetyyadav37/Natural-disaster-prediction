@@ -1,4 +1,4 @@
-# WOODPECKER HACKATHON
+# MUJ HackX
 
 ## AI based Natural Disaster Prediction & Response System
 
@@ -99,12 +99,12 @@ python model_evaluation.py
 - Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone (https://github.com/smreetyyadav37/Natural-disaster-prediction.git)
 ```
 - Navigate to the project directory:
 
 ```bash
-cd your-repository
+cd hackx
 ```
 
 - Install dependencies:
