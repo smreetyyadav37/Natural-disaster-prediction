@@ -7,7 +7,7 @@ app = Flask(__name__)
 def get_cities():
     
         # Make a GET request to the Flask server running on localhost:5000
-        response = requests.get('https://localhost:5000/predict')
+        response = requests.get('http://localhost:5000/predict')
         
        
         cities_data = response.json()
